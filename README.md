@@ -1,1 +1,1 @@
-# [Ignite] Challenge 01 - Node.js Trail
+# [Ignite] Node.js Trail - Chapter I - Challenge 01
